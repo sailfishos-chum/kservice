@@ -1,8 +1,8 @@
-%global kf5_version 5.115.0
+%global kf5_version 5.116.0
 
 Name: opt-kf5-kservice
 Summary: KDE Frameworks 5 Tier 3 solution for advanced plugin and service introspection
-Version: 5.115.0
+Version: 5.116.0
 Release: 1%{?dist}
 
 # mixture of LGPLv2 and LGPLv2+ (mostly the latter)
